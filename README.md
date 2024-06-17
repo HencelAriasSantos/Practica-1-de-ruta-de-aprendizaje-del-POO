@@ -1,1 +1,1 @@
-# Practica 1 de ruta de aprendizaje del POO
+# Taea de la ruta de aprendizaje del POO
